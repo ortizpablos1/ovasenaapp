@@ -197,6 +197,6 @@ export default {
 .material {
   text-decoration: none;
   color: #ffffff;
-  font-size: 14px;
+  font-size: 13px;
 }
 </style>
